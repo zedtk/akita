@@ -1,6 +1,6 @@
 {
-  "name": "@datorama/akita",
-  "version": "8.0.1",
+  "name": "@zedtk/akita",
+  "version": "0.0.1",
   "description": "A Reactive State Management Tailored-Made for JS Applications",
   "keywords": [
     "angular",
@@ -16,13 +16,13 @@
     "redux",
     "reactive"
   ],
-  "homepage": "https://github.com/datorama/akita/tree/master/libs/akita#readme",
+  "homepage": "https://github.com/zedtk/akita/tree/master/libs/akita#readme",
   "bugs": {
-    "url": "https://github.com/datorama/akita/issues"
+    "url": "https://github.com/zedtk/akita/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/datorama/akita",
+    "url": "https://github.com/zedtk/akita",
     "directory": "libs/akita"
   },
   "license": "Apache-2.0",
